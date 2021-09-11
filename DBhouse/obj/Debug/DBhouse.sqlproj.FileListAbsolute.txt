@@ -1,0 +1,10 @@
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\bin\Debug\DBhouse.dacpac
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\bin\Debug\DBhouse.dll
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\bin\Debug\DBhouse.pdb
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\DBhouse.sqlprojAssemblyReference.cache
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\Model.xml
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\refactor.xml
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\postdeploy.sql
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\predeploy.sql
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\DBhouse.dll
+C:\Users\New HP\CODE_KONDI\DBhouse\DBhouse\obj\Debug\DBhouse.pdb
